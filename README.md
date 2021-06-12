@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo {
 -                                   **""Java para desenvolvimento Mobile usando Android Studio, 
--                                       Linguagem R para Análise e exploração de dados.""**
+-                                       Linguagem R para Análise e exploração de dados.""**}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
