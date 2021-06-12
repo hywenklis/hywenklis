@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Herbert</h1>
 <h3 align="center">Estudante de Data Science, Amo café! ツ</h3>
 
-- 🌱 Atualmente estou aprendendo {
--                                   **""Java para desenvolvimento Mobile usando Android Studio, 
--                                       Linguagem R para Análise e exploração de dados.""**}
+ 🌱 Atualmente estou aprendendo {
+                                  **""Java para desenvolvimento Mobile usando Android Studio, 
+                                       Linguagem R para Análise e exploração de dados.""**  }
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
