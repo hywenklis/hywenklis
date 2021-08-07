@@ -2,8 +2,10 @@
 <h3 align="center">Estudante de Data Science, Amo café! ツ</h3>
 
  🌱 Atualmente estou aprendendo:
- -                                **Java para desenvolvimento Mobile usando Android Studio, 
- -                                      Linguagem R para Análise e exploração de dados.**  
+ -                                **Java para desenvolvimento Mobile usando Android Studio,
+ -                                          BackEnd utilizando a liguagem Java** 
+ -                                    **Linguagem R para Análise e exploração de dados.  
+ -                                               Python para Data Science**
 
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
