@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou trabalhando **- Invillia / PagSeguro**
 
-- 🌱 No momento estou evoluindo com as seguintes tecnologia **Spring, Java, Kotlin, Webflux, Arquitetura limpa**
+- 🌱 No momento estou evoluindo com as seguintes tecnologia **Spring, Java, Kotlin, Webflux, Arquitetura limpa, Oracle**
 
 - 📫 Como chegar até mim ? **https://www.linkedin.com/in/hywenklis**
 
