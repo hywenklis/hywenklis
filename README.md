@@ -2,9 +2,9 @@
   <img src="https://github.com/hywenklis/hywenklis/raw/main/assets/header-github.gif" alt="Oi, eu sou Hywenklis">
 </p>
 
-<!--
-How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
+<!-- How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91) -->
+
 - 🔭 Atualmente estou trabalhando **- Invillia / PagSeguro**
 
 - 🌱 No momento estou evoluindo com as seguintes tecnologia **Spring, Java, Kotlin, Webflux, Arquitetura limpa**
