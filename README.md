@@ -5,7 +5,7 @@
 **Sobre Mim**
 
 - 👨‍💻 Desenvolvedor backend na **Invillia / PagBank**
-- 🌱 Aprendendo e evoluindo em **tecnologias como Spring, Java, Kotlin, Webflux, Oracle, Postgres, Mongo**
+- 🌱 Aprendendo e evoluindo em **tecnologias como Spring, Java, Kotlin, Webflux, Oracle, Postgres, Mongo, Banco de dados SQL/NoSQL, Arquitetura de Sistema(Hexagonal, Limpa, mvc, BFF...), Mensageria(Rabbit, Kafka)**
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/hywenklis)
 
 
