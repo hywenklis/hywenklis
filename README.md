@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá, eu sou [Seu Nome], um entusiasta de desenvolvimento backend na **Invillia / PagBank** 👨‍💻. Estou sempre em busca de desafios e oportunidades para aprender e crescer.
+Olá, eu sou Hywenklis, desenvolvedor backend na **Invillia / PagBank** 👨‍💻. Estou sempre em busca de desafios e oportunidades para aprender e crescer.
 
 - 🌱 Atualmente, estou explorando tecnologias como:
     - **Spring**
@@ -49,8 +49,5 @@ Olá, eu sou [Seu Nome], um entusiasta de desenvolvimento backend na **Invillia 
   </a>
   <a href="https://github.com/hywenklis/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hywenklis&layout=compact&theme=buefy&hide_border=true" />
-  </a>
-  <a href="https://github.com/hywenklis/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hywenklis" alt="hywenklis" />
   </a>
 </div>
