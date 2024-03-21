@@ -1,9 +1,5 @@
 # 👋 Bem-vindo ao meu Perfil! 
 
-<p align="center">
-  <img src="https://github.com/hywenklis/hywenklis/raw/main/assets/header-github.gif" alt="Hywenklis">
-</p>
-
 ## Sobre Mim
 
 Olá, eu sou Hywenklis, desenvolvedor backend na **Invillia / PagBank** 👨‍💻. Estou sempre em busca de desafios e oportunidades para aprender e crescer.
