@@ -18,9 +18,9 @@ Competências e Habilidades:
 
 Outras Habilidades:
 
-✔️ Metodologias Ágeis: Experiência em trabalho remoto em equipes ágeis utilizando metodos como Kanban, Scrum e XP.
-✔️ Orientação a Valor: Focado no desenvolvimento de soluções com impacto real
-✔️ Segurança: Conhecimento em vulnerabilidades OWASP e desenvolvimento seguro
+- ✔️ Metodologias Ágeis: Experiência em trabalho remoto em equipes ágeis utilizando metodos como Kanban, Scrum e XP.
+- ✔️ Orientação a Valor: Focado no desenvolvimento de soluções com impacto real
+- ✔️ Segurança: Conhecimento em vulnerabilidades OWASP e desenvolvimento seguro
 
 - 📫 Vamos conectar no [LinkedIn](https://www.linkedin.com/in/hywenklis)?
 
