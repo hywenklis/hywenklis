@@ -1,55 +1,100 @@
-# 👋 Bem-vindo ao meu Perfil! 
-
-## Sobre Mim
-
-Sou um desenvolvedor de software com experiência em desenvolvimento Back-end, especializado nas linguagens de programação Java e Kotlin. Ao longo da minha carreira, participei ativamente de equipes que conceberam soluções inovadoras de microsserviços, principalmente em ambientes de fintechs.  
-
-Competências e Habilidades:
-
-- ✔️ Linguagens: Java (8, 11, 17, 21), Kotlin
-- ✔️ Spring Framework: Spring Boot, Spring Data, Spring Cloud, webflux entre outros
-- ✔️ Testes: JUnit, MockMvc, RestAssured, WireMock, AssertJ, Mockito, Mockk, WebTestClient
-- ✔️ Containers: Docker, Kubernetes, DockerSwarm
-- ✔️ Bancos: Oracle, MySQL, Postgres, MongoDB, Redis
-- ✔️ Design e Boas Práticas:** Padrões de design e boas práticas de programação
-- ✔️ Arquitetura: MVC, Hexagonal, Arquitetura Limpa, BFF(Backend for Frontend)
-- ✔️ Mensageria: RabbiMQ, Kafka
-- ✔️ paradigmas de programação: Orientado a Objeto, Funcional, Reativo
-
-Outras Habilidades:
-
-- ✔️ Metodologias Ágeis: Experiência em trabalho remoto em equipes ágeis utilizando metodos como Kanban, Scrum e XP.
-- ✔️ Orientação a Valor: Focado no desenvolvimento de soluções com impacto real
-- ✔️ Segurança: Conhecimento em vulnerabilidades OWASP e desenvolvimento seguro
-
-- 📫 Vamos conectar no [LinkedIn](https://www.linkedin.com/in/hywenklis)?
-
-## Stack e Ferramentas
-
 <div align="center">
-   <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/></code> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></code> 
-  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/></code> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/></code> 
-  <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20"/></code> 
-  <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/></code> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></code> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/></code> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></code>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo+ao+meu+universo+de+código!;Desenvolvedor+Back-end;Arquiteto+de+Microsserviços;Entusiasta+de+Java+e+Kotlin&center=true&width=450&height=50&font=Georgia">
 </div>
 
-## Estatísticas e Contribuições
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Olá, eu sou Hywenklis!
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hywenklis"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hywenklis@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/hywenklis"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hywenklis&label=Profile%20views&color=0e75b6&style=flat" alt="hywenklis" />
+</p>
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor de software apaixonado por criar soluções elegantes para problemas complexos. Com uma sólida experiência em desenvolvimento back-end, especializo-me em:
+
+- 🌟 Arquitetura de microsserviços para fintechs
+- 💼 Desenvolvimento em Java e Kotlin
+- 🔧 Design de sistemas distribuídos
+- 🔐 Implementação de práticas de segurança robustas
+
+<details>
+<summary>🌱 Atualmente estou...</summary>
+
+- Aprofundando meus conhecimentos em arquiteturas reativas
+- Explorando técnicas avançadas de otimização de performance
+- Contribuindo para projetos open-source
+
+</details>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+## 🛠️ Competências Principais
+
+<details>
+<summary>Clique para expandir</summary>
+
+- **Linguagens:** Java (8, 11, 17, 21), Kotlin
+- **Frameworks:** Spring Boot, Spring Data, Spring Cloud, Spring WebFlux
+- **Testes:** JUnit 5, MockMvc, RestAssured, WireMock, AssertJ, Mockito, Mockk, WebTestClient
+- **Containers:** Docker, Kubernetes, Docker Swarm
+- **Bancos de Dados:** Oracle, MySQL, PostgreSQL, MongoDB, Redis
+- **Mensageria:** RabbitMQ, Apache Kafka
+- **Arquitetura:** MVC, Hexagonal, Clean Architecture, BFF (Backend for Frontend)
+- **Paradigmas:** Orientado a Objetos, Funcional, Reativo
+- **DevOps:** CI/CD, Jenkins, GitLab CI, GitHub Actions
+- **Cloud:** AWS, Google Cloud Platform
+- **Monitoramento:** Prometheus, Grafana, ELK Stack
+
+</details>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hywenklis&show_icons=true&theme=default" alt="hywenklis's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hywenklis&layout=compact&theme=default" alt="hywenklis's top languages"/>
+</p>
+
+## 🌟 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/hywenklis/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hywenklis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hywenklis github stats" />
-  </a>
-  <a href="https://github.com/hywenklis/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hywenklis&layout=compact&theme=buefy&hide_border=true" />
-  </a>
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=hywenklis&repo=buddy-api&theme=default)](https://github.com/hywenklis/buddy-api)
+
+</div>
+
+## 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hywenklis&theme=default" alt="hywenklis's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hywenklis&theme=default" alt="hywenklis's GitHub Contribution"/>
+</p>
+
+<div align="center">
+
+  Se meu trabalho te inspira, considere me dar uma ⭐️!
+  
 </div>
